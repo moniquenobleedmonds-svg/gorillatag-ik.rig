@@ -1,4 +1,4 @@
-# Gorilla-IK-Rig
+# Gorillatag-IK.rig
 
 ### A Gorilla Animation Rig for Blender
 
